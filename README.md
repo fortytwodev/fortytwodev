@@ -1,16 +1,16 @@
-### Hi there 👋
+###Sup Boys
 
-<!--
-**fortytwodev/fortytwodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name's 42 and I'm a java developer.
 
-Here are some ideas to get you started:
+I am working on a variety of projects, a lot of them are private. I am sorry however, if you want commission work, you can contact me at the following.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Links*
+
+**Twitter**
+🐦: @fortytwomc
+
+**Telegram**
+📱: @itsfortytwo
+
+**Discord**
+📞: 42#3811
