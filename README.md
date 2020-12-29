@@ -10,7 +10,7 @@ I am working on a variety of projects, a lot of them are private. I am sorry, ho
 🐦: @fortytwomc
 
 **Telegram**
-📱: @itsfortytwo
+📱: @ign42
 
 **Discord**
-📞: 42#3811
+📞: forty#9999
